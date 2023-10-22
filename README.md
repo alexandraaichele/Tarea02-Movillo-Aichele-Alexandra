@@ -7,3 +7,6 @@ Integrantes:
 correo: alexandra.aichele@alumnos.uv.cl
 -Andrés González
 correo: andres.gonzalezvi@alumnos.uv.cl
+
+## Instrucciones para la Instalación
+-Se debe hacer un pip install requests
