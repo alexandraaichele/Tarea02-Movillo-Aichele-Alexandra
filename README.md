@@ -1,4 +1,4 @@
-# Tarea02-Movillo-Aichele-Alexandra-Vilches-Gonzalez-Andres
+# Tarea02-Movillo-Aichele-Alexandra
 
 Tarea 2 de Redes de computadores
 
